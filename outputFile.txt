@@ -1,0 +1,12 @@
+
+Letter grade for 9 students given in "inputFile.txt" file is:
+
+Anne Latner                   : 	B
+Ariana B. Smith               : 	A
+Bill Gates                    : 	F
+Emily Gonzalez                : 	B
+Escobar Morris                : 	C
+Jennifer L                    : 	B
+Maria Jones                   : 	D
+Thui Bhu                      : 	A
+Thui Bhu                      : 	A
